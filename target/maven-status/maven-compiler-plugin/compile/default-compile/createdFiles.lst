@@ -1,0 +1,9 @@
+com\youcode\youcodePlatforme\entity\Role.class
+com\youcode\youcodePlatforme\HibernateUtil.class
+com\youcode\youcodePlatforme\DAOImpl\UserDAOImlp.class
+com\youcode\youcodePlatforme\controller\ServletCrud.class
+com\youcode\youcodePlatforme\entity\User.class
+com\youcode\youcodePlatforme\controller\LoginServlet.class
+com\youcode\youcodePlatforme\DAOImpl\LoginService.class
+com\youcode\youcodePlatforme\entity\Speciality.class
+com\youcode\youcodePlatforme\DAO\UserDAO.class
